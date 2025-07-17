@@ -38,6 +38,7 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
     <div class='paper-box-text' markdown="1">
       [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
       Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25*, CCF-B.
+    </div>
   </div>
 </div>
 
@@ -52,6 +53,7 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
         [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
         **Z Wu**, Y Wang. *CSCWD'24*, CCF-C.
         - We build a software router upon Linux via Golang for protocol modification and routing.
+    </div>
     </div>
 </div>
 
