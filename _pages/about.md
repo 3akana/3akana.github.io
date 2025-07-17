@@ -37,7 +37,7 @@ ICASSP'25, CCF-B
 
 <!-- 论文 1 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/Qiao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2024</div><img src='images/Qiao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)
