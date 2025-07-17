@@ -30,15 +30,16 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <!-- 纯图 + 图上文字 -->
     <div>
       <div class="badge">ICASSP 2025</div><img src='images/RecNet.png' alt="RecNet" style="width:100%;">
     </div>
+    <!-- 论文介绍 -->
+    <div class='paper-box-text' markdown="1">
+      [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
+      Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25*, CCF-B.
+    </div>
   </div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-[RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
-Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25*, CCF-B.
 </div>
 
 <!-- 论文 1 -->
@@ -46,15 +47,14 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25*, CCF-B.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CSCWD 2024</div>
-      <img src='images/Qiao.png' alt="Qiao" style="width:100%;">
+      <div class="badge">CSCWD 2024</div><img src='images/Qiao.png' alt="Qiao" style="width:100%;">
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
+        **Z Wu**, Y Wang. *CSCWD'24*, CCF-C.
+        - We build a software router upon Linux via Golang for protocol modification and routing.
     </div>
   </div>
-</div>
-
-<div class='paper-box-text' markdown="1">
-    [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
-    **Z Wu**, Y Wang. *CSCWD'24*, CCF-C.
 </div>
 
 
@@ -65,6 +65,6 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25*, CCF-B.
 
 # 💻 Internships
 
-<img src="images/qf.png" alt="Bilibili Logo" width="30"/> *2025.6 - now*, [Qifu Technology, Inc](https://www.qf.com), Shanghai, China.
+<img src="images/qf.png" alt="Bilibili Logo" width="30"/> *2025.6 - now*, Speech LLM Intern, Department of Large Language Model, [Qifu Technology, Inc](https://www.qifu.tech), Shanghai, China.
 
-<img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.06*, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
+<img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.06*, Speech Synthesis Intern, Department of Artificial Intelligence, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
