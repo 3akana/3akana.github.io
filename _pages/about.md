@@ -35,12 +35,11 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
       <img src='images/RecNet.png' alt="RecNet" style="width:100%;">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
-    Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**  
-    *ICASSP'25*, CCF-B
-  </div>
-</div>
+  
+  - [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
+  Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**  
+  *ICASSP'25*, CCF-B
+  
 
 <!-- 论文 1 -->
 
