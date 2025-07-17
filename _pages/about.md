@@ -23,28 +23,40 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
 # 🔥 News
 - Nothing new here.
 
-# 📝 Publications 
 
+# 📝 Publications 
 
 <!-- 论文 2 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/RecNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)
-Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**
-ICASSP'25, CCF-B
-
----
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICASSP 2025</div>
+      <img src='images/RecNet.png' alt="RecNet" style="width:100%;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
+    Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**  
+    *ICASSP'25*, CCF-B
+  </div>
+</div>
 
 <!-- 论文 1 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2024</div><img src='images/Qiao.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)
-**Z Wu**, Y Wang
-CSCWD'24, CCF-C
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CSCWD 2024</div>
+      <img src='images/Qiao.png' alt="Qiao" style="width:100%;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
+    **Z Wu**, Y Wang  
+    *CSCWD'24*, CCF-C
+  </div>
+</div>
 
 # 📖 Educations
 - *2024.9 - 2027.06* , Fudan University, Shanghai, China.
