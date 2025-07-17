@@ -36,11 +36,10 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
   </div>
 </div>
 
-  
-  [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
-  Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**  
-  *ICASSP'25*, CCF-B
-  
+<div class='paper-box-text' markdown="1">
+[RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
+Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25*, CCF-B.
+</div>
 
 <!-- 论文 1 -->
 
@@ -51,16 +50,18 @@ Master Student in Fudan University. Focus on Speech Synthesis, Large Language Mo
       <img src='images/Qiao.png' alt="Qiao" style="width:100%;">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
-    [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
-    **Z Wu**, Y Wang  
-    *CSCWD'24*, CCF-C
-  </div>
 </div>
+
+<div class='paper-box-text' markdown="1">
+    [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
+    **Z Wu**, Y Wang. *CSCWD'24*, CCF-C.
+</div>
+
 
 # 📖 Educations
 - *2024.9 - 2027.06* , Fudan University, Shanghai, China.
 - *2020.10 - 2024.06*, Zhejiang A&F University, Zhejiang, China. 
+
 
 # 💻 Internships
 
