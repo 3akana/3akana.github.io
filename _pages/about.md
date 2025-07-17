@@ -47,7 +47,7 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B.*
 
 <!-- 论文 1 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCWD 2024</div><img src='images/Qiao.png' alt="Qiao" style="width:100%; object-fit: cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image style=display: flex; justify-content: center; align-items: center;'><div><div class="badge">CSCWD 2024</div><img src='images/Qiao.png' alt="Qiao" style="width:100%; height: 150px"></div></div>
 <div class='paper-box-text' markdown="1">
 [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
 **Zhiyu Wu**, Yisu Wang. *CSCWD'24, CCF-C.*
