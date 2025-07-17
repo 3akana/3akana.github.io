@@ -58,8 +58,8 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B.*
 
 # 📖 Educations
 - *2024.9 - 2027.06* , M.S. in Computer Science, Fudan University, Shanghai, China.
-- *2021.9 - 2024.06*, M.S. in Computer Science, Zhejiang A&F University, Zhejiang, China. 
-- *2020.10 - 2021.06*, M.S. in English Language and Literature, Zhejiang A&F University, Zhejiang, China. 
+- *2021.9 - 2024.06*, B.S. in Computer Science, Zhejiang A&F University, Zhejiang, China. 
+- *2020.10 - 2021.06*, B.S. in English Language and Literature, Zhejiang A&F University, Zhejiang, China. 
 
 
 # 💻 Internships
