@@ -31,8 +31,8 @@ Focus on Speech Synthesis, Large Language Models and Multimodal Learning, and wi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='images/gibrnet.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
-[GIBRNet: A Multimodal Spatiotemporal Reasoning Network Integrating Emotion, Gaze, and Position for Gaze Interaction Behavior Recognition]()
-Junhao Xiao, Jing Gao, Yi Chen, Jingxing Zhong, **Zhiyu Wu**. *CogSci'25 (TBD), CCF-B*.
+[GIBRNet: A Multimodal Spatiotemporal Reasoning Network Integrating Emotion, Gaze, and Position for Gaze Interaction Behavior Recognition](https://escholarship.org/uc/item/9hs6x3hs)
+Junhao Xiao, Jing Gao, Yi Chen, Jingxing Zhong, **Zhiyu Wu**. *CogSci'25, CCF-B*.
 </div>
 </div>
 
