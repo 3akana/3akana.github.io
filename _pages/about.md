@@ -27,6 +27,17 @@ Focus on Speech Synthesis, Large Language Models and Multimodal Learning, and wi
 
 # 📝 Publications 
 
+<!-- 论文 4 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/vTAD.png' alt="RecNet" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection]()
+**Zhiyu Wu**, Jingyi Fang, Yufei Tang, Yuanzhong Zheng, Yaoxuan Wang, and Haojun Fei.
+</div>
+</div>
+
+
+
 <!-- 论文 3 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='images/gibrnet.png' alt="RecNet" style="width:100%;"></div></div>
@@ -64,6 +75,6 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B.*
 
 # 💻 Internships
 
-<img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - now*, Speech LLM Reearch Intern, Department of Large Language Model, [Qifu Technology, Inc (360DigiTech)](https://www.qifu.tech), Shanghai, China.
+<img src="images/360.png" alt="360 Logo" width="30"/> <img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - now*, Speech LLM Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
 
 <img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.06*, Speech Synthesis Intern, Department of Artificial Intelligence Platform, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
