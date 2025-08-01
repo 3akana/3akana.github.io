@@ -75,6 +75,6 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B.*
 
 # 💻 Internships
 
-<img src="images/360.png" alt="360 Logo" width="30"/> <img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - now*, Speech LLM Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
+<img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - now*, Speech LLM Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
 
 <img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.06*, Speech Synthesis Intern, Department of Artificial Intelligence Platform, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
