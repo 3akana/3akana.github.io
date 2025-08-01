@@ -33,6 +33,8 @@ Focus on Speech Synthesis, Large Language Models and Multimodal Learning, and wi
 <div class='paper-box-text' markdown="1">
 [QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection]()
 **Zhiyu Wu**, Jingyi Fang, Yufei Tang, Yuanzhong Zheng, Yaoxuan Wang, and Haojun Fei.
+- Our solution for [Voice Timbre Attribute Detection Challenge 2025](https://vtad2025-challenge.github.io).
+- We build a vTAD model tailored for modeling Relative Attribute Learning.
 </div>
 </div>
 
