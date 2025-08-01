@@ -37,7 +37,6 @@ Focus on Speech Synthesis, Large Language Models and Multimodal Learning, and wi
 </div>
 
 
-
 <!-- 论文 3 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2025</div><img src='images/gibrnet.png' alt="RecNet" style="width:100%;"></div></div>
