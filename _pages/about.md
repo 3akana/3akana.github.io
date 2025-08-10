@@ -20,13 +20,13 @@ redirect_from:
 Master Student in Fudan University. 
 Focus on Speech Synthesis, Large Language Models and Multimodal Learning, and wild cat 🐱.
 
-I want to build the controllable TTS/Omni Speech System, both controllability in speech prosody and speech content.
-- Controllable speech prosody: 
-  - Richful and fine-grained controllability in speech prosody.
-  - e.g. Paralanguage, Emotion, emphasis, Timbre.
-- Controllable speech content:
+I want to build the controllable TTS/Omni Speech System 💬, both controllability in speech prosody and speech content.
+- 🎙️ Controllable speech prosody: 
+  - Richful and fine-grained controllability in speech prosody. 
+  - e.g. Paralanguage, Emotion 😄, emphasis, Timbre.
+- 🔐 Controllable speech content:
   - Controllable speech content generation.
-  - e.g. Safety, Prejudice Elimination, Jailbreaking Defense.
+  - e.g. Safety, Prejudice Elimination, Jailbreaking Defense 🔨.
 
 
 # 🔥 News
