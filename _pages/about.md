@@ -20,6 +20,10 @@ redirect_from:
 Master Student in Fudan University. 
 Focus on Speech Synthesis, Large Language Models and Multimodal Learning, and wild cat 🐱.
 
+I want to build the controllable TTS/Omni Speech System, both controllability in speech prosody and speech content.
+- Controllable speech prosody: Richful and fine-grained controllability in speech prosody, e.g. Paralanguage, emphasis.
+- Controllable speech content: Controllable speech content generation, e.g. safety, prejudice elimination, jailbreaking defense.
+
 
 # 🔥 News
 - Nothing new here.
@@ -53,7 +57,7 @@ Junhao Xiao, Jing Gao, Yi Chen, Jingxing Zhong, **Zhiyu Wu**. *CogSci'25, CCF-B*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/RecNet.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
 [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
-Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B.*
+Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B*.
 </div>
 </div>
 
@@ -62,7 +66,7 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B.*
 <div class='paper-box'><div class='paper-box-image style=display: flex; justify-content: center; align-items: center;'><div><div class="badge">CSCWD 2024</div><img src='images/Qiao.png' alt="Qiao" style="width:100%; height: 150px"></div></div>
 <div class='paper-box-text' markdown="1">
 [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
-**Zhiyu Wu**, Yisu Wang. *CSCWD'24, CCF-C.*
+**Zhiyu Wu**, Yisu Wang. *CSCWD'24, CCF-C*.
 - We build a software router upon Linux via Golang for protocol modification and routing.
 </div>
 </div>
