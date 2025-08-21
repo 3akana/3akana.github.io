@@ -30,7 +30,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
-- Nothing new here.
+- ⏰ Our 1 paper about Voice Timbre Attribute Detection has been accepted by NCMMSC'25. ^_^
 
 
 # 📝 Publications 
@@ -41,7 +41,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 <div class='paper-box-text' markdown="1">
 [QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection]()
 
-**Zhiyu Wu**, Jingyi Fang, Yufei Tang, Yuanzhong Zheng, Yaoxuan Wang, and Haojun Fei.
+**Zhiyu Wu**, Jingyi Fang, Yufei Tang, Yuanzhong Zheng, Yaoxuan Wang, and Haojun Fei. *NCMMSC'25, CCF-N*.
 - Our solution for [Voice Timbre Attribute Detection Challenge 2025](https://vtad2025-challenge.github.io).
 - We build a vTAD model tailored for modeling Relative Attribute Learning.
 </div>
