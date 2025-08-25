@@ -39,7 +39,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/vTAD.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
-[QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection]()
+[QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection](https://arxiv.org/abs/2508.15931)
 
 **Zhiyu Wu**, Jingyi Fang, Yufei Tang, Yuanzhong Zheng, Yaoxuan Wang, and Haojun Fei. *NCMMSC'25, CCF-N*.
 - Our solution for [Voice Timbre Attribute Detection Challenge 2025](https://vtad2025-challenge.github.io).
