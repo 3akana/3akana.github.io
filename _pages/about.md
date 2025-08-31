@@ -95,9 +95,11 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B*.
 <!-- 地图组件 -->
 <div align="center" style="margin: 30px 0;">
   <h3>🌍 Visitors</h3>
-  <script 
-    type="text/javascript" 
-    id="clstr_globe" 
-    src="https://clustrmaps.com/globe.js?d=jDMqT4JZ2aiEOCGPz7mLLpwD_DQhwYyGESzq1B7tytU">
-  </script>
+  <div style="width: 400px; height: 400px; margin: auto;">
+    <script 
+      type="text/javascript" 
+      id="clstr_globe" 
+      src="https://clustrmaps.com/globe.js?d=jDMqT4JZ2aiEOCGPz7mLLpwD_DQhwYyGESzq1B7tytU">
+    </script>
+  </div>
 </div>
