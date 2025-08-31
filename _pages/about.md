@@ -98,7 +98,7 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B*.
   <script 
     type='text/javascript' 
     id='clustrmaps' 
-    src='//cdn.clustrmaps.com/map_v2.js?cl=ffefef&w=300&t=tt&d=jDMqT4JZ2aiEOCGPz7mLLpwD_DQhwYyGESzq1B7tytU&cmo=ffa0f7&cmn=ff9d47&co=a5daff&ct=cdd4d9'>
+    src='//cdn.clustrmaps.com/map_v2.js?cl=ffefef&w=300&t=tt&d=jDMqT4JZ2aiEOCGPz7mLLpwD_DQhwYyGESzq1B7tytU&cmo=ffa0f7&cmn=ff9d47&co=a5daff&ct=000000'>
   </script>
   </div>
 </div>
