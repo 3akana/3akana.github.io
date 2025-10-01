@@ -39,7 +39,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 <!-- 论文 5 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/mmasia.png' alt="RecNet" style="width:100%;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Asia 2025</div><img src='images/mmasia.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
 [FabasedVC: Enhancing Voice Conversion with Text Modality Fusion and Phoneme-Level SSL Features]()
 
@@ -50,7 +50,7 @@ W. Wang, Z. Hu, Y. Zhou, J. Xu, **Z. Wu**, C. Li and S. Li. *Multimedia Asia'25,
 
 <!-- 论文 4 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/vTAD.png' alt="RecNet" style="width:100%;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCMMSC 2025</div><img src='images/vTAD.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
 [QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection](https://arxiv.org/abs/2508.15931)
 
@@ -84,7 +84,7 @@ J. Xiao, Y. Chen, X. Feng, R. Wang, **Z. Wu**. *ICASSP'25, CCF-B*.
 
 <!-- 论文 1.5 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/ase.png' alt="RecNet" style="width:100%;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ase.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Exploring Static Taint Analysis in LLMs:A Dynamic Benchmarking Framework for Measurement and Enhancement]()
 
