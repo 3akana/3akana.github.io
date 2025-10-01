@@ -35,6 +35,17 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 # 📝 Publications 
 
+
+<!-- 论文 5 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/mmasia.png' alt="RecNet" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[FabasedVC: Enhancing Voice Conversion with Text Modality Fusion and Phoneme-Level SSL Features]()
+
+Wenyu Wang, Zhetao Hu, Yiquan Zhou, Jiacheng Xu, **Zhiyu Wu**, Chen Li and Shihao Li. *Multimedia Asia'25, CCF-C*.
+</div>
+</div>
+
 <!-- 论文 4 -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/vTAD.png' alt="RecNet" style="width:100%;"></div></div>
