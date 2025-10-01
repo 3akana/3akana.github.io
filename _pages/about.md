@@ -30,11 +30,12 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
-- ⏰ Our 1 paper about Voice Timbre Attribute Detection has been accepted by NCMMSC'25. ^_^
+- 🇲🇾 [1/10/2025] Our 1 paper about Voice Conversion has been accepted by ACM Multimedia Asia'25. ^_^
+- 🇰🇷 [26/9/2025] Our 1 paper about Static Taint Analysis with Large Language Models has been accepted by ASE'25. ^_^
+- 🇨🇳 [20/8/2025] Our 1 paper about Voice Timbre Attribute Detection has been accepted by NCMMSC'25. ^_^
 
 
 # 📝 Publications 
-
 
 <!-- 论文 5 -->
 
@@ -42,9 +43,10 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 <div class='paper-box-text' markdown="1">
 [FabasedVC: Enhancing Voice Conversion with Text Modality Fusion and Phoneme-Level SSL Features]()
 
-Wenyu Wang, Zhetao Hu, Yiquan Zhou, Jiacheng Xu, **Zhiyu Wu**, Chen Li and Shihao Li. *Multimedia Asia'25, CCF-C*.
+W. Wang, Z. Hu, Y. Zhou, J. Xu, **Z. Wu**, C. Li and S. Li. *Multimedia Asia'25, CCF-C*.
 </div>
 </div>
+
 
 <!-- 论文 4 -->
 
@@ -52,7 +54,7 @@ Wenyu Wang, Zhetao Hu, Yiquan Zhou, Jiacheng Xu, **Zhiyu Wu**, Chen Li and Shiha
 <div class='paper-box-text' markdown="1">
 [QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection](https://arxiv.org/abs/2508.15931)
 
-**Zhiyu Wu**, Jingyi Fang, Yufei Tang, Yuanzhong Zheng, Yaoxuan Wang, and Haojun Fei. *NCMMSC'25, CCF-N*.
+**Z. Wu**, J. Fang, Y. Tang, Y. Zheng, Y. Wang, and H. Fei. *NCMMSC'25, CCF-N*.
 - Our solution for [Voice Timbre Attribute Detection Challenge 2025](https://vtad2025-challenge.github.io).
 - We build a vTAD model tailored for modeling Relative Attribute Learning.
 </div>
@@ -65,7 +67,7 @@ Wenyu Wang, Zhetao Hu, Yiquan Zhou, Jiacheng Xu, **Zhiyu Wu**, Chen Li and Shiha
 <div class='paper-box-text' markdown="1">
 [GIBRNet: A Multimodal Spatiotemporal Reasoning Network Integrating Emotion, Gaze, and Position for Gaze Interaction Behavior Recognition](https://escholarship.org/uc/item/9hs6x3hs)
 
-Junhao Xiao, Jing Gao, Yi Chen, Jingxing Zhong, **Zhiyu Wu**. *CogSci'25, CCF-B*.
+J. Xiao, J. Gao, Yi Chen, J. Zhong, **Z. Wu**. *CogSci'25, CCF-B*.
 </div>
 </div>
 
@@ -75,7 +77,18 @@ Junhao Xiao, Jing Gao, Yi Chen, Jingxing Zhong, **Zhiyu Wu**. *CogSci'25, CCF-B*
 <div class='paper-box-text' markdown="1">
 [RecNet: Optimization for Dense Object Detection in Retail Scenarios Based on View Rectification](https://ieeexplore.ieee.org/document/10887773)  
 
-Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B*.
+J. Xiao, Y. Chen, X. Feng, R. Wang, **Z. Wu**. *ICASSP'25, CCF-B*.
+</div>
+</div>
+
+
+<!-- 论文 1.5 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/ase.png' alt="RecNet" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Exploring Static Taint Analysis in LLMs:A Dynamic Benchmarking Framework for Measurement and Enhancement]()
+
+H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yang. *ASE'25, CCF-A*.
 </div>
 </div>
 
@@ -85,7 +98,7 @@ Junhao Xiao, Yi Chen, Xiao Feng, Ruoyu Wang, **Zhiyu Wu**. *ICASSP'25, CCF-B*.
 <div class='paper-box-text' markdown="1">
 [Qiao: DIY your routing protocol in Internet-of-Things](https://ieeexplore.ieee.org/abstract/document/10580573)  
 
-**Zhiyu Wu**, Yisu Wang. *CSCWD'24, CCF-C*.
+**Z. Wu**, Y. Wang. *CSCWD'24, CCF-C*.
 - We build a software router upon Linux via Golang for protocol modification and routing.
 </div>
 </div>
