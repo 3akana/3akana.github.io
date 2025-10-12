@@ -30,6 +30,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
+- 🇦🇷 [11/10/2025] Have been selected to receive a free ticket (1 of 10 recipients) to Devconnect 2025 (Nov. 17–22, Buenos Aires, Argentina), courtesy of ETHPanda. Let's meet in Argentina!
 - 🇲🇾 [1/10/2025] Our 1 paper about Voice Conversion has been accepted by ACM Multimedia Asia'25. ^_^
 - 🇰🇷 [26/9/2025] Our 1 paper about Static Taint Analysis with Large Language Models has been accepted by ASE'25. ^_^
 - 🇨🇳 [20/8/2025] Our 1 paper about Voice Timbre Attribute Detection has been accepted by NCMMSC'25. ^_^
