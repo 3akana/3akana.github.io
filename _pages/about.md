@@ -112,8 +112,9 @@ H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yan
 
 
 # 💻 Internships
+<img src="images/soul.jpeg" alt="Soul Logo" width="30"/> *2025.11 - now*, SpechLLMs Multimodal Intercation Research Intern, Soul AI Lab, [Soul App](https://www.soulapp.cn), Shanghai, China.
 
-<img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - now*, Speech LLM Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
+<img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - 2025.11*, SpeechLLMs Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
 
 <img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.06*, Speech Synthesis Intern, Department of Artificial Intelligence Platform, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
 
