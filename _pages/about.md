@@ -30,6 +30,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
+- 🇸🇬 [8/11/2025] Our 1 paper about Multimodal Understanding has been accepted by AAAI'25. ^_^
 - 🇦🇷 [11/10/2025] Have been selected to receive a free ticket (1 of 10 recipients) to Devconnect 2025 (Nov. 17–22, Buenos Aires, Argentina), courtesy of ETHPanda. Let's meet in Argentina!
 - 🇲🇾 [1/10/2025] Our 1 paper about Voice Conversion has been accepted by ACM Multimedia Asia'25. ^_^
 - 🇰🇷 [26/9/2025] Our 1 paper about Static Taint Analysis with Large Language Models has been accepted by ASE'25. ^_^
@@ -37,6 +38,16 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 📝 Publications 
+
+<!-- 论文 6 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/ClipGlasses.png' alt="ClipGlasses" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Not Just What’s There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning]()
+
+J. Xiao, **Z. Wu**, H. Lin, Y. Liu, X. Zhao, Z. Wang, Z. He, Y. Chen. *AAAI'25, CCF-A*.
+</div>
+</div>
 
 <!-- 论文 5 -->
 
