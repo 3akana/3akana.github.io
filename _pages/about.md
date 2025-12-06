@@ -123,7 +123,7 @@ H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yan
 
 
 # 💻 Internships
-<img src="images/bytedance.png" alt="TikTok Logo" width="22"/> *2025.12 - now*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
+<img src="images/bytedance.png" alt="TikTok Logo" width="30"/> *2025.12 - now*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
 
 <img src="images/soul.jpeg" alt="Soul Logo" width="30"/> *2025.11 - 2025.12*, SpechLLMs Multimodal Intercation Research Intern, Soul AI Lab, [Soul App](https://www.soulapp.cn), Shanghai, China.
 
