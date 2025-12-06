@@ -53,7 +53,7 @@ J. Xiao, **Z. Wu**, H. Lin, Y. Liu, X. Zhao, Z. Wang, Z. He, Y. Chen. *AAAI'25, 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Multimedia Asia 2025</div><img src='images/mmasia.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
-[FabasedVC: Enhancing Voice Conversion with Text Modality Fusion and Phoneme-Level SSL Features]()
+[FabasedVC: Enhancing Voice Conversion with Text Modality Fusion and Phoneme-Level SSL Features](https://arxiv.org/abs/2511.10112)
 
 W. Wang, Z. Hu, Y. Zhou, J. Xu, **Z. Wu**, C. Li and S. Li. *Multimedia Asia'25, CCF-C*.
 </div>
@@ -123,7 +123,9 @@ H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yan
 
 
 # 💻 Internships
-<img src="images/soul.jpeg" alt="Soul Logo" width="30"/> *2025.11 - now*, SpechLLMs Multimodal Intercation Research Intern, Soul AI Lab, [Soul App](https://www.soulapp.cn), Shanghai, China.
+<img src="images/tiktok.png" alt="TikTok Logo" width="30"/> *2025.12 - now*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
+
+<img src="images/soul.jpeg" alt="Soul Logo" width="30"/> *2025.11 - 2025.12*, SpechLLMs Multimodal Intercation Research Intern, Soul AI Lab, [Soul App](https://www.soulapp.cn), Shanghai, China.
 
 <img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - 2025.11*, SpeechLLMs Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
 
