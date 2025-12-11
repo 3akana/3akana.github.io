@@ -125,11 +125,9 @@ H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yan
 # 💻 Internships
 <img src="images/bytedance.png" alt="TikTok Logo" width="30"/> *2025.12 - now*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
 
-<img src="images/soul.jpeg" alt="Soul Logo" width="30"/> *2025.11 - 2025.12*, SpechLLMs Multimodal Intercation Research Intern, Soul AI Lab, [Soul App](https://www.soulapp.cn), Shanghai, China.
+<img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - 2025.11*, SpeechLLMs Research Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
 
-<img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - 2025.11*, SpeechLLMs Reearch Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
-
-<img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.06*, Speech Synthesis Intern, Department of Artificial Intelligence Platform, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
+<img src="images/bl.png" alt="Bilibili Logo" width="30"/> *2024.12 - 2025.05*, Speech Synthesis Intern, Department of Artificial Intelligence Platform, [BiliBili, Inc](https://www.bilibili.com), Shanghai, China.
 
 <!-- 地图组件 -->
 <div align="center" style="margin: 30px 0;">
