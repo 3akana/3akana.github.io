@@ -134,6 +134,8 @@ H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yan
 
 
 # 💻 Internships
+Reviewers: ICME 2026, IJCNN 2025
+
 <img src="images/bytedance.png" alt="TikTok Logo" width="30"/> *2025.12 - now*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
 
 <img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - 2025.11*, SpeechLLMs Research Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
