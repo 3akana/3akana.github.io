@@ -30,14 +30,25 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
-- 🇸🇬 [8/11/2025] Our 1 paper about Multimodal Understanding has been accepted by AAAI'25. ^_^
+- 🇪🇸 [18/01/2026] Our 1 paper about Controllable TTS has been accepted by ICASSP'26. ^_^
+- 🇸🇬 [08/11/2025] Our 1 paper about Multimodal Understanding has been accepted by AAAI'25. ^_^
 - 🇦🇷 [11/10/2025] Have been selected to receive a free ticket (1 of 10 recipients) to Devconnect 2025 (Nov. 17–22, Buenos Aires, Argentina), courtesy of ETHPanda. Let's meet in Argentina!
-- 🇲🇾 [1/10/2025] Our 1 paper about Voice Conversion has been accepted by ACM Multimedia Asia'25. ^_^
-- 🇰🇷 [26/9/2025] Our 1 paper about Static Taint Analysis with Large Language Models has been accepted by ASE'25. ^_^
-- 🇨🇳 [20/8/2025] Our 1 paper about Voice Timbre Attribute Detection has been accepted by NCMMSC'25. ^_^
+- 🇲🇾 [01/10/2025] Our 1 paper about Voice Conversion has been accepted by ACM Multimedia Asia'25. ^_^
+- 🇰🇷 [26/09/2025] Our 1 paper about Static Taint Analysis with Large Language Models has been accepted by ASE'25. ^_^
+- 🇨🇳 [20/08/2025] Our 1 paper about Voice Timbre Attribute Detection has been accepted by NCMMSC'25. ^_^
 
 
 # 📝 Publications 
+
+<!-- 论文 7 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/qfocus.png' alt="qfocus" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[QFocus: Controllable Synthesis for Automated Speech Stress Editing to Deliver Human-Like Emphatic Intent]()
+
+J. Fang, Y. Tang, **Z. Wu**, Y. Zheng, Y. Wang, H. Fei. *ICASSP'26, CCF-B*.
+</div>
+</div>
 
 <!-- 论文 6 -->
 
