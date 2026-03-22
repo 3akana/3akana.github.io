@@ -30,6 +30,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
+- 🇪🇸 [21/03/2026] Our 1 paper about Singing Style Conversion has been accepted by WCCI-IJCNN'26. ^_^
 - 🇪🇸 [18/01/2026] Our 1 paper about Controllable TTS has been accepted by ICASSP'26. ^_^
 - 🇸🇬 [08/11/2025] Our 1 paper about Multimodal Understanding has been accepted by AAAI'25. ^_^
 - 🇦🇷 [11/10/2025] Have been selected to receive a free ticket (1 of 10 recipients) to Devconnect 2025 (Nov. 17–22, Buenos Aires, Argentina), courtesy of ETHPanda. Let's meet in Argentina!
@@ -39,6 +40,16 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 📝 Publications 
+
+<!-- 论文 7 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCCI-IJCNN 2026</div><img src='images/ijcnn.png' alt="ijcnn" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Controllable Singing Style Conversion with Boundary-Aware Information Bottleneck]()
+
+Z. Hu, Y. Zhou, **Z. Wu**, X. Gao, J. Zhu, W. Wang. *IJCNN'26, CCF-C*.
+</div>
+</div>
 
 <!-- 论文 7 -->
 
