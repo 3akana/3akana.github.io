@@ -65,7 +65,7 @@ J. Fang, Y. Tang, **Z. Wu**, Y. Zheng, Y. Wang, H. Fei. *ICASSP'26, CCF-B*.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/ClipGlasses.png' alt="ClipGlasses" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
-[Not Just What’s There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning]()
+[Not Just What’s There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning](https://ojs.aaai.org/index.php/AAAI/article/view/38075)
 
 J. Xiao, **Z. Wu**, H. Lin, Y. Liu, X. Zhao, Z. Wang, Z. He, Y. Chen. *AAAI'25, CCF-A*.
 </div>
@@ -120,7 +120,7 @@ J. Xiao, Y. Chen, X. Feng, R. Wang, **Z. Wu**. *ICASSP'25, CCF-B*.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2025</div><img src='images/ase.png' alt="RecNet" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
-[Exploring Static Taint Analysis in LLMs:A Dynamic Benchmarking Framework for Measurement and Enhancement]()
+[Exploring Static Taint Analysis in LLMs:A Dynamic Benchmarking Framework for Measurement and Enhancement](https://ieeexplore.ieee.org/document/11334601)
 
 H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yang. *ASE'25, CCF-A*.
 </div>
