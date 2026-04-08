@@ -30,6 +30,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
+- [08/04/2026] Our 1 paper about Vulnerability Propagation Chain has been accepted by TDSC'25. ^_^
 - 🇳🇱 [21/03/2026] Our 1 paper about Singing Style Conversion has been accepted by WCCI-IJCNN'26. ^_^
 - 🇪🇸 [18/01/2026] Our 1 paper about Controllable TTS has been accepted by ICASSP'26. ^_^
 - 🇸🇬 [08/11/2025] Our 1 paper about Multimodal Understanding has been accepted by AAAI'25. ^_^
@@ -40,6 +41,18 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 📝 Publications 
+
+<!-- 论文 9 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='images/v1perscan.png' alt="tdsc" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Fine-grained Detection of Java Cross-library Vulnerability Propagation by Extracting Semantic 
+Constraints from Security Patches]()
+
+F. Sun, L. Zhang, **Z. Wu**, X. Chen, H. Yu, T. Han, M. Yang.
+*TDSC'25, CCF-A*.
+</div>
+</div>
 
 <!-- 论文 8 -->
 
