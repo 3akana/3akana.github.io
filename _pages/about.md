@@ -47,7 +47,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='images/v1perscan.png' alt="tdsc" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Fine-grained Detection of Java Cross-library Vulnerability Propagation by Extracting Semantic 
-Constraints from Security Patches]()
+Constraints from Security Patches](https://www.computer.org/csdl/journal/tq/5555/01/11478627/2fy5IywdrEc)
 
 F. Sun, L. Zhang, **Z. Wu**, X. Chen, H. Yu, T. Han, M. Yang.
 *TDSC'25, CCF-A*.
