@@ -30,6 +30,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 🔥 News
+- 🇧🇷 [10/07/2026] Our 1 paper about Audio-Visual Speaker Detection has been accepted by ACM MM'26. ^_^
 - [08/04/2026] Our 1 paper about Vulnerability Propagation Chain has been accepted by TDSC'25. ^_^
 - 🇳🇱 [21/03/2026] Our 1 paper about Singing Style Conversion has been accepted by WCCI-IJCNN'26. ^_^
 - 🇪🇸 [18/01/2026] Our 1 paper about Controllable TTS has been accepted by ICASSP'26. ^_^
@@ -41,6 +42,17 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 
 # 📝 Publications 
+
+<!-- 论文 10 -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/v1perscan.png' alt="tdsc" style="width:100%;"></div></div>
+<div class='paper-box-text' markdown="1">
+[Dual-Stream Decoupled Learning for Temporal Consistency and Speaker Interaction in AVSD](https://arxiv.org/abs/2512.19130)
+
+Junhao Xiao, Shun Feng, **Zhiyu Wu**, Jinghan Yu, Haibiao Yao, Zhiyuan Ma, Jianjun Li, Youjun Bao, Yi Chen.
+*ACM MM'26, CCF-A*.
+</div>
+</div>
 
 <!-- 论文 9 -->
 
@@ -160,7 +172,7 @@ H. Zhao, L. Zhang, K. Lian, F. Sun, B. Chen, Y. Liu, **Z. Wu**, Y. Zhang, M. Yan
 # 💻 Internships
 Reviewers: ICME 2026, IJCNN 2025
 
-<img src="images/bytedance.png" alt="TikTok Logo" width="30"/> *2025.12 - now*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
+<img src="images/bytedance.png" alt="TikTok Logo" width="30"/> *2025.12 - 2026.06*, Large Language Model Intern, Tiktok, [ByteDance](https://www.bytedance.com), Shanghai, China.
 
 <img src="images/qf.png" alt="Qifu Logo" width="30"/> *2025.06 - 2025.11*, SpeechLLMs Research Intern, Department of Large Language Model, [Qfin Holdings, Inc (360DigiTech)](https://ir.qifu.tech), Shanghai, China.
 
