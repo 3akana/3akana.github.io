@@ -45,7 +45,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 
 <!-- 论文 10 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/v1perscan.png' alt="tdsc" style="width:100%;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/avsd.png' alt="tdsc" style="width:100%;"></div></div>
 <div class='paper-box-text' markdown="1">
 [Dual-Stream Decoupled Learning for Temporal Consistency and Speaker Interaction in AVSD](https://arxiv.org/abs/2512.19130)
 
