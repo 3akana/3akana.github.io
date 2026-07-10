@@ -49,7 +49,7 @@ I want to build the controllable TTS/Omni Speech System 💬, both controllabili
 <div class='paper-box-text' markdown="1">
 [Dual-Stream Decoupled Learning for Temporal Consistency and Speaker Interaction in AVSD](https://arxiv.org/abs/2512.19130)
 
-Junhao Xiao, Shun Feng, **Zhiyu Wu**, Jinghan Yu, Haibiao Yao, Zhiyuan Ma, Jianjun Li, Youjun Bao, Yi Chen.
+J. Xiao, S. Feng, **Z. Wu**, J. Yu, H. Yao, Z. Ma, J. Li, Y. Bao, Y. Chen.
 *ACM MM'26, CCF-A*.
 </div>
 </div>
